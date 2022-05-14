@@ -1,0 +1,112 @@
+﻿  Blinky.cpp
+  ChaseAggressive.cpp
+d:\projects\practicesfml\practicesfml\chaseaggressive.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\chaseaggressive.cpp(56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ChaseBehaviour.cpp
+  ChaseRandom.cpp
+  FrightenedBehaviour.cpp
+  FrightenedEaten.cpp
+d:\projects\practicesfml\practicesfml\frightenedeaten.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\frightenedeaten.cpp(41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FrightenedWandering.cpp
+d:\projects\practicesfml\practicesfml\frightenedwandering.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\frightenedwandering.cpp(43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameObject.cpp
+  Ghost.cpp
+d:\projects\practicesfml\practicesfml\ghost.cpp(23): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\projects\practicesfml\practicesfml\ghost.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\ghost.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Global.cpp
+d:\projects\practicesfml\practicesfml\global.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\global.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+d:\projects\practicesfml\practicesfml\map.cpp(12): warning C4018: '<': signed/unsigned mismatch
+d:\projects\practicesfml\practicesfml\map.cpp(9): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: see declaration of 'freopen'
+d:\projects\practicesfml\practicesfml\map.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Object.cpp
+d:\projects\practicesfml\practicesfml\object.cpp(14): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\projects\practicesfml\practicesfml\object.cpp(15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\object.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ScatterDownLeft.cpp
+d:\projects\practicesfml\practicesfml\scatterdownleft.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\scatterdownleft.cpp(49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ScatterDownRight.cpp
+d:\projects\practicesfml\practicesfml\scatterdownright.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\scatterdownright.cpp(49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ScatterTopLeft.cpp
+d:\projects\practicesfml\practicesfml\scattertopleft.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\scattertopleft.cpp(49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ScatterTopRight.cpp
+d:\projects\practicesfml\practicesfml\scattertopright.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\scattertopright.cpp(49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  keyboard.cpp
+  player.cpp
+d:\projects\practicesfml\practicesfml\player.cpp(22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(30): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(45): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(48): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+d:\projects\practicesfml\practicesfml\player.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\projects\practicesfml\practicesfml\player.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  practiceSFML.cpp
+d:\projects\practicesfml\practicesfml\practicesfml.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  practiceSFML.vcxproj -> D:\projects\practiceSFML\Debug\practiceSFML.exe
